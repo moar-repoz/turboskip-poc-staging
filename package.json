@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "chromatic": "CHROMATIC_INDEX_URL=https://chromatic-index-pr-11338.herokuapp.com npx chromatic --only-changed --exit-zero-on-changes --exit-once-uploaded --project-token=chpt_a4832afbf26f3be"
+    "chromatic": "CHROMATIC_INDEX_URL=https://chromatic-index-pr-11371.herokuapp.com npx chromatic --only-changed --exit-zero-on-changes --exit-once-uploaded --project-token=chpt_a4832afbf26f3be"
   },
   "dependencies": {
     "react": "^19.1.0",
